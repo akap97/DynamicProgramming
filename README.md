@@ -12,3 +12,14 @@
 
 #### 6) MatrixMul: Given a chain of n matrices A0 , . . . , An−1 to be multiplied, minimizie total cost of multiplication.
 
+#### 7) Knapsack_noRepeat:  Given n gold bars, find the maximum weight of gold that fits into a bag of capacity W .
+
+#### 8) 3EqualPartition: You and two of your friends have just returned back home after visiting various countries. Now you would like to evenly split all the souvenirs that all three of you bought. The first line contains an integer n. The second line contains integers v1 , v2 , . . . , vn separated by spaces.
+
+#### 9) SubsetSum: Given a set of non-negative integers, and a value sum, determine if there is a subset of the given set with sum equal to given sum.
+
+#### 10) Parenthization: Find the maximum value of an arithmetic expression by specifying the order of applying its arithmetic operations using additional parentheses.
+
+
+
+
